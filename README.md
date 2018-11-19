@@ -6,3 +6,7 @@ I decided to make a simple dice roller for DnD since I'm trying to learn it and 
 
 Anyhow I will be working on this project alongside my Fishing Guide for Wild World so be sure to check this out too for updates.
 
+## Demo
+
+https://codepen.io/ElecRei/pen/RqLgwg
+
